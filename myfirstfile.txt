@@ -1,4 +1,4 @@
 hello
 This is from the local machine
 This change is from git hub
-I have fixed the merge conflict
+I have fixed the merge conflicthello vishwajeet,this is priyanshi messing with your file
