@@ -1,2 +1,4 @@
 hello
 This is from the local machine
+This change is from git hub
+I have fixed the merge conflict
